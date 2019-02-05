@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\bin\Debug\TMA1_KIOSK4.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\bin\Debug\TMA1_KIOSK4.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\bin\Debug\TMA1_KIOSK4.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\bin\Debug\TMA1_KIOSK4.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\obj\Debug\TMA1_KIOSK4.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\obj\Debug\TMA1_KIOSK4.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\obj\Debug\TMA1_KIOSK4.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\obj\Debug\TMA1_KIOSK4.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\obj\Debug\TMA1_KIOSK4.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\obj\Debug\TMA1_KIOSK4.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\obj\Debug\TMA1_KIOSK4.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\TMA1_KIOSK4\TMA1_KIOSK4\obj\Debug\TMA1_KIOSK4.frmKiosk.resources
